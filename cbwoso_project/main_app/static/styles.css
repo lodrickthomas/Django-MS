@@ -1,0 +1,23 @@
+body {
+    background: #fafafa;
+}
+
+/* navbar styles */
+.nav-user{
+  font-size: 17px;
+  color: white;
+  margin-right: 10px;
+  }
+
+  .nav-user-logout a{
+    color: white;
+
+  }
+
+   #register a{
+    margin-right: 10px;
+  }
+
+  #userprofile a{
+    margin-right: 10px;
+  }
